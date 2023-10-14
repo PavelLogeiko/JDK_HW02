@@ -9,5 +9,6 @@
 
 Скрины работы приложения.
 
-[1](!)
-[2](!)
+![1](https://github.com/PavelLogeiko/JDK_HW02/blob/main/images/1.png)
+
+![2](https://github.com/PavelLogeiko/JDK_HW02/blob/main/images/2.png)
